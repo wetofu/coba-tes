@@ -1,5 +1,6 @@
 # coba-tes
 
+<<<<<<< HEAD
 tesssss tessss
 oke oc
 
