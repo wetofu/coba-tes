@@ -1,10 +1,8 @@
 # coba-tes
 
-tesssss tessss
-aaaaaa
-tess
-tessssss
-aaaaaa
+tesssss tessss  
+carloz stepen  
+ganteng
 # CARLOZ
-aaaaaa
-tessss
+bbbbbbbbbbbbbbbbb    
+tessss  
